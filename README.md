@@ -1,5 +1,5 @@
 # The Oblivion Store
-##### An Online Retail Management and Custommer Order Processing System
+##### An Online Retail Management and Customer Order Processing System
 
 By Amit Juneja - 
 You can connect me on LinkedIn
