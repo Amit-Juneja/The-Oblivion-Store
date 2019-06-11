@@ -4,7 +4,7 @@
 By Amit Juneja - 
 You can connect me on LinkedIn
 
-* LinkedIn - https://www.linkedin.com/in/chirag-pandit-15193638/
+* LinkedIn - https://www.linkedin.com/in/amit-juneja-100226159/
 
 ### Features 
 * A full fledged online retail website system using java technologies
